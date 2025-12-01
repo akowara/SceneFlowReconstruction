@@ -6,7 +6,7 @@ CS680 Project
 20825696
 
 # sceneflow_reconstruction.ipynb
-- jupyter notebook based off the orginal sceneflow reconstruction paper
+- jupyter notebook based off the orginal sceneflow reconstruction paper https://github.com/gengshan-y/expansion
 - Personal modifcations were made to run the tests disscussed in my paper
 
 # KITTI Dataset
@@ -27,7 +27,7 @@ CS680 Project
 # Metric 3d_depths
 - Holds the precomputed Metric 3d depths of each images
 - Original https://github.com/YvanYin/Metric3D
-- Personal Modifcations 
+- Personal Modifcations were made to match the requiremnts desired, please contact for futher information
 
 # precomputed
 - Holds the precomputed monodepth and optical flow results from https://github.com/gengshan-y/expansion
