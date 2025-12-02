@@ -1,9 +1,14 @@
 # SceneFlowReconstruction
 
-Arthur Kowara
-a2kowara@uwaterloo.ca
-CS680 Project
-20825696
+- Arthur Kowara
+- a2kowara@uwaterloo.ca
+- CS680 Project
+- 20825696
+
+# Specifics
+- python 3.10.9
+- NVIDIA RTX 5080 GPU
+- Cuda 12
 
 # sceneflow_reconstruction.ipynb
 - jupyter notebook based off the orginal sceneflow reconstruction paper https://github.com/gengshan-y/expansion
